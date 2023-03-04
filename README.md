@@ -10,3 +10,9 @@ https://github.com/Elvenson/midiMe
 Pop music transformer
 Music Transformer
 MuseMorphose
+AudioLDM 
+Text-to-Audio Generation: Generate audio given text input.
+Audio-to-Audio Generation: Given an audio, generate another audio that contain the same type of sound.
+Text-guided Audio-to-Audio Style Transfer: Transfer the sound of an audio into another one using the text description.
+https://github.com/haoheliu/AudioLDM
+Moûsai  no code release
