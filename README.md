@@ -16,3 +16,6 @@ Audio-to-Audio Generation: Given an audio, generate another audio that contain t
 Text-guided Audio-to-Audio Style Transfer: Transfer the sound of an audio into another one using the text description.  
 https://github.com/haoheliu/AudioLDM  
 Moûsai  no code release  
+
+##dataset
+https://github.com/tosiron/jazznet
