@@ -17,5 +17,7 @@ Text-guided Audio-to-Audio Style Transfer: Transfer the sound of an audio into a
 https://github.com/haoheliu/AudioLDM  
 Moûsai  no code release  
 
-##dataset
-https://github.com/tosiron/jazznet
+##dataset  
+*Jazznet  
+ https://github.com/tosiron/jazznet  
+ The jazznet dataset is an extensible dataset containing 162520 labeled 【piano patterns】: chords, arpeggios, scales, and chord progressions, and their inversions in all keys of the 88-key piano.
